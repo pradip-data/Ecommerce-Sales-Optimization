@@ -102,6 +102,10 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 
 📷 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/8886d01b22b2eb4f6ff4e5c57590d1a988af01a9/Python%20Visulization%20Images/most%20common%20abandonment%20reason.png*
 
+**2. Top Refferal Medium**
+
+*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/9eb14a6318d758da5e2cb58ffa8a23d73eac65e9/Python%20Visulization%20Images/top%20refferal%20medium.png*
+
 ---
 ### **2️⃣ Power BI Interactive Dashboard**
 
