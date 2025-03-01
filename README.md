@@ -41,7 +41,9 @@ Analyzing abandonment patterns allows MagicMade to refine marketing strategies. 
 - `Device_Type` - Desktop, Mobile, or Tablet
 - `Cart_Status` - Paid or Abandoned
 
-###  **Note** : Originally this Dataset Row Count is 7212 Then Use of Python Code & AI we can generate more 500000  Row Dataset according to previous patteren of Dataset
+
+### **Note :**
+Originally this Dataset Row Count is 7212 Then Use of Python Code & AI we can generate more 500000  Row Dataset according to previous patteren of Dataset
 
 ## **🎯 Key Objectives**
 
@@ -212,6 +214,6 @@ Shopping cart abandonment is a major issue for **MagicMade**, leading to **lost 
 By implementing **checkout optimizations, guest checkout, retargeting, mobile-friendly experiences, and better pricing transparency**, MagicMade can significantly **reduce abandonment rates** and **increase conversions**. With a combination of **Python (for analytics), Power BI (for visualization), and SQL (for data querying),** this project provides a comprehensive solution for improving e-commerce performance.
 
 ### **📌 Author: Mangroliya Pradip**  
-### **📎 Contact: pradipias2023@gmail.com **  
-### **🌐 GitHub: [Your Profile]**  
+### **📎 Contact: pradipias2023@gmail.com**  
+### **🌐 GitHub: https://github.com/pradip-data/Ecommerce-Sales-Optimization**  
 
