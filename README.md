@@ -110,6 +110,10 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 
 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/b7cc2a2b589e742ff675e490109a3bddd4276c88/Python%20Visulization%20Images/month%20wise%20cart%20abandonment%20rate.png*
 
+**4. Abandoned Users by Session Range**
+
+*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/219b29ac72d093969eb813c278e9a9582f734d05/Python%20Visulization%20Images/abandoned%20users%20by%20session%20range.png*
+
 
 ---
 ### **2️⃣ Power BI Interactive Dashboard**
