@@ -41,7 +41,7 @@ Analyzing abandonment patterns allows MagicMade to refine marketing strategies. 
 - `Device_Type` - Desktop, Mobile, or Tablet
 - `Cart_Status` - Paid or Abandoned
 
-###  **Note : Originally this Dataset Row Count is 7212 Then Use of Python Code & AI we can generate more 500000  Row Dataset according to previous patteren of Dataset**
+###  **Note** : Originally this Dataset Row Count is 7212 Then Use of Python Code & AI we can generate more 500000  Row Dataset according to previous patteren of Dataset
 
 ## **🎯 Key Objectives**
 
@@ -113,6 +113,12 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 **4. Abandoned Users by Session Range**
 
 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/219b29ac72d093969eb813c278e9a9582f734d05/Python%20Visulization%20Images/abandoned%20users%20by%20session%20range.png*
+
+**5. Total Cart Value : Paid vs Abandonment**
+
+*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/e1ebefbcc91ccecd3991a8fc05db5061dbb44f39/Python%20Visulization%20Images/total%20cart%20value%20paid%20vs%20abandonment.png*
+
+
 
 
 ---
