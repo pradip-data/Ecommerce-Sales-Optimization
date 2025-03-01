@@ -1,4 +1,4 @@
-# **Strategies to Combat Shopping Cart Abandonment & Boost Sales at MagicMade**
+# **Strategies to Combat Shopping Cart Abandonment & Boost Sales at MagicMade e-commerce**
 
 ## **📌 Project Overview**
 Shopping cart abandonment is a significant challenge for **MagicMade**, leading to lost revenue and reduced customer engagement. This project aims to analyze user behavior, identify key abandonment reasons, and implement **data-driven strategies** to improve conversions and optimize the shopping experience.
