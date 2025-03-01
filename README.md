@@ -98,42 +98,33 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 
 📌 **Python-Generated Visualizations:**  
 
-**1. Cart Status Distribution**
+#### **1.Cart Status Distribution**  
+<img src="Python%20Visulization%20Images/cart%20status%20distribution.png" width="400">
 
-*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/7989e73e3edfcd0da757d4f1f097307649bee770/Python%20Visulization%20Images/cart%20status%20distribution.png*
+#### **2.Most Common Cart Abandonment Reason**  
+<img src="Python%20Visulization%20Images/most%20common%20abandonment%20reason.png" width="400">
 
-**2. Most Common Cart Abandonment Reason**
+#### **3.Top Referral Medium**  
+<img src="Python%20Visulization%20Images/top%20refferal%20medium.png" width="400">
 
-📷 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/8886d01b22b2eb4f6ff4e5c57590d1a988af01a9/Python%20Visulization%20Images/most%20common%20abandonment%20reason.png*
+#### **4.Month Wise Cart Abandonment Rate**  
+<img src="Python%20Visulization%20Images/month%20wise%20cart%20abandonment%20rate.png" width="400">
 
-**3. Top Refferal Medium**
+#### **5.Abandoned Users by Session Range**  
+<img src="Python%20Visulization%20Images/abandoned%20users%20by%20session%20range.png" width="400">
 
-*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/9eb14a6318d758da5e2cb58ffa8a23d73eac65e9/Python%20Visulization%20Images/top%20refferal%20medium.png*
-
-**4. Month Wise Cart Abandonment Rate**
-
-*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/b7cc2a2b589e742ff675e490109a3bddd4276c88/Python%20Visulization%20Images/month%20wise%20cart%20abandonment%20rate.png*
-
-**5. Abandoned Users by Session Range**
-
-*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/219b29ac72d093969eb813c278e9a9582f734d05/Python%20Visulization%20Images/abandoned%20users%20by%20session%20range.png*
-
-**6. Total Cart Value : Paid vs Abandonment**
-
-*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/e1ebefbcc91ccecd3991a8fc05db5061dbb44f39/Python%20Visulization%20Images/total%20cart%20value%20paid%20vs%20abandonment.png*
-
-
-
+#### **6.Total Cart Value: Paid vs Abandonment**  
+<img src="Python%20Visulization%20Images/total%20cart%20value%20paid%20vs%20abandonment.png" width="400">
 
 ---
+
 ### **2️⃣ Power BI Interactive Dashboard**
+The **Power BI dashboard** provides a real-time, interactive analysis of cart abandonment patterns.
 
-The Power BI dashboard provides an interactive view 
+#### **Cart Abandonment Analysis Dashboard**  
+<img src="Python%20Visulization%20Images/Cart%20Abandonment%20Analysis%20Overview-1.png" width="600">
 
-**Cart Abandonment Analysis Dashboard**
-
-*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/3a331de5b199920460bfec32f7aada2ef06b35b8/Python%20Visulization%20Images/Cart%20Abandonment%20Analysis%20Overview-1.png*
-
+<img src="Python%20Visulization%20Images/Cart%20Abandonment%20Analysis%20Dashboard-2.png" width="600">
 
 
 
