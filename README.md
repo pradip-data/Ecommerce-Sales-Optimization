@@ -41,7 +41,7 @@ Analyzing abandonment patterns allows MagicMade to refine marketing strategies. 
 - `Device_Type` - Desktop, Mobile, or Tablet
 - `Cart_Status` - Paid or Abandoned
 
-
+###  **Note : Originally this Dataset Row Count is 7212 Then Use of Python Code & AI we can generate more 500000  Row Dataset according to previous patteren of Dataset**
 
 ## **🎯 Key Objectives**
 
