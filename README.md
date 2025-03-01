@@ -106,6 +106,11 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 
 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/9eb14a6318d758da5e2cb58ffa8a23d73eac65e9/Python%20Visulization%20Images/top%20refferal%20medium.png*
 
+**3. Month Wise Cart Abandonment Rate**
+
+*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/b7cc2a2b589e742ff675e490109a3bddd4276c88/Python%20Visulization%20Images/month%20wise%20cart%20abandonment%20rate.png*
+
+
 ---
 ### **2️⃣ Power BI Interactive Dashboard**
 
