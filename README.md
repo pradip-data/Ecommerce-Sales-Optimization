@@ -96,17 +96,11 @@ Import the Power BI `.pbix` file to explore interactive insights.
 ### **1️⃣ Python Data Analysis & Insights**
 The dataset is analyzed using Python to uncover hidden patterns and trends:
 
-- **Session Duration Analysis:** Relationship between session time and cart abandonment.
-- **Abandonment Reason Analysis:** Most common reasons for cart abandonment.
-- **Cart Value Distribution:** High vs. low cart abandonment trends.
-- **Device Usage Analysis:** Impact of Mobile/Desktop usage on abandonment rates.
-
 📌 **Python-Generated Visualizations:**  
-🔹 Cart Abandonment Rate vs. Cart Value (Bar Chart)  
-🔹 Abandonment Rate by Device Type (Pie Chart)  
-🔹 Session Duration vs. Abandonment (Scatter Plot)  
 
-📷 *[Insert Python-generated images here]*
+**1. Most Common Cart Abandonment Reason**
+
+📷 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/8886d01b22b2eb4f6ff4e5c57590d1a988af01a9/Python%20Visulization%20Images/most%20common%20abandonment%20reason.png*
 
 ---
 ### **2️⃣ Power BI Interactive Dashboard**
