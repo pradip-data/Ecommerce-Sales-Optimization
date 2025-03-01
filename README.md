@@ -130,9 +130,11 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 
 The Power BI dashboard provides an interactive view 
 
-📌 **Power BI Dashboard Screenshots:**
+**Cart Abandonment Analysis Dashboard**
 
-📷 *[Insert Power BI dashboard images here]*
+*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/3a331de5b199920460bfec32f7aada2ef06b35b8/Python%20Visulization%20Images/Cart%20Abandonment%20Analysis%20Overview-1.png*
+
+
 
 
 
