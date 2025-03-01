@@ -98,23 +98,27 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 
 📌 **Python-Generated Visualizations:**  
 
-**1. Most Common Cart Abandonment Reason**
+**1. Cart Status Distribution**
+
+*https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/7989e73e3edfcd0da757d4f1f097307649bee770/Python%20Visulization%20Images/cart%20status%20distribution.png*
+
+**2. Most Common Cart Abandonment Reason**
 
 📷 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/8886d01b22b2eb4f6ff4e5c57590d1a988af01a9/Python%20Visulization%20Images/most%20common%20abandonment%20reason.png*
 
-**2. Top Refferal Medium**
+**3. Top Refferal Medium**
 
 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/9eb14a6318d758da5e2cb58ffa8a23d73eac65e9/Python%20Visulization%20Images/top%20refferal%20medium.png*
 
-**3. Month Wise Cart Abandonment Rate**
+**4. Month Wise Cart Abandonment Rate**
 
 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/b7cc2a2b589e742ff675e490109a3bddd4276c88/Python%20Visulization%20Images/month%20wise%20cart%20abandonment%20rate.png*
 
-**4. Abandoned Users by Session Range**
+**5. Abandoned Users by Session Range**
 
 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/219b29ac72d093969eb813c278e9a9582f734d05/Python%20Visulization%20Images/abandoned%20users%20by%20session%20range.png*
 
-**5. Total Cart Value : Paid vs Abandonment**
+**6. Total Cart Value : Paid vs Abandonment**
 
 *https://github.com/pradip-data/Ecommerce-Sales-Optimization/blob/e1ebefbcc91ccecd3991a8fc05db5061dbb44f39/Python%20Visulization%20Images/total%20cart%20value%20paid%20vs%20abandonment.png*
 
@@ -124,15 +128,13 @@ The dataset is analyzed using Python to uncover hidden patterns and trends:
 ---
 ### **2️⃣ Power BI Interactive Dashboard**
 
-The Power BI dashboard provides an interactive view of:
-- **Cart Abandonment by Month & Category** 📆
-- **Geographic Trends of Abandonment** 🌍
-- **Revenue Loss & Potential Recovery** 💸
-- **Session Duration & Purchase Behavior** ⏳
+The Power BI dashboard provides an interactive view 
 
 📌 **Power BI Dashboard Screenshots:**
 
 📷 *[Insert Power BI dashboard images here]*
+
+
 
 ---
 ## **📌 SQL Queries for Data Extraction & Transformation**
@@ -216,7 +218,7 @@ Shopping cart abandonment is a major issue for **MagicMade**, leading to **lost 
 
 By implementing **checkout optimizations, guest checkout, retargeting, mobile-friendly experiences, and better pricing transparency**, MagicMade can significantly **reduce abandonment rates** and **increase conversions**. With a combination of **Python (for analytics), Power BI (for visualization), and SQL (for data querying),** this project provides a comprehensive solution for improving e-commerce performance.
 
-### **📌 Author: [Your Name]**  
-### **📎 Contact: [Your Email]**  
+### **📌 Author: Mangroliya Pradip**  
+### **📎 Contact: pradipias2023@gmail.com **  
 ### **🌐 GitHub: [Your Profile]**  
 
