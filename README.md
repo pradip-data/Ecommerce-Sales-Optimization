@@ -22,7 +22,7 @@ Analyzing abandonment patterns allows MagicMade to refine marketing strategies. 
 
 ## **🛠 Tech Stack Used**
 
-- **Python** 🐍 (Data cleaning, analysis, and visualization using Pandas, Matplotlib, and Seaborn)
+- **Python** 🐍 (Data cleaning, analysis, and visualization using  Numpy, Pandas, Matplotlib, and Seaborn)
 - **SQL** 🗄️ (Data extraction, transformation, and aggregation)
 - **Power BI** 📊 (Interactive dashboards for reporting and insights)
 
